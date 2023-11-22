@@ -48,8 +48,8 @@ body {
 
 @font-face {
     font-family: 'tw';
-    src: url('tw-cen-mt-std/TwCenMT-Regular.woff2') format('woff2'),
-         url('tw-cen-mt-std/TwCenMT-Regular.woff') format('woff');
+    src: url('fuentes/TwCenMT-Regular.woff2') format('woff2'),
+         url('fuentes/TwCenMT-Regular.woff') format('woff');
 }
 
 .menu-button {
@@ -106,8 +106,8 @@ body {
 
 @font-face {
     font-family: 'Nickainley';
-    src: url('Nickainley-Norm.woff2') format('woff2'),
-         url('Nickainley-Norm.woff') format('woff');
+    src: url('fuentes/Nickainley-Normal.woff2') format('woff2'),
+         url('fuentes/Nickainley-Normal.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
