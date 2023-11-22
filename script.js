@@ -64,7 +64,7 @@ let slider = document.getElementById('slider');
 let slides = slider.getElementsByClassName('slide');
 
 for (let i = 0; i < slides.length; i++) {
-    slides[i].addEventListener('click'), function() {
+    slides[i].addEventListener('click', function() {
       
       for (let j = 0; j < slides.length; j++) {
         slides[j].style.width = '400px';
@@ -83,7 +83,7 @@ for (let i = 0; i < slides.length; i++) {
       if (this !== slider.children[middle]) {
           slider.insertBefore(this, slider.children[middle]);
       }
-  }
+  })
 }
    //Boton Magico
   document.getElementById('magic-button').addEventListener('click', function() {
