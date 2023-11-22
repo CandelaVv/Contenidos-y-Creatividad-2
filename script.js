@@ -37,16 +37,16 @@ setInterval(writeText, 200);
 // Animacion platos
 
 const platoMap = {
-    "plato1": "platos/plato_4.PNG",
-    "plato2": "platos/plato_10.PNG",
-    "plato3": "platos/plato_9.PNG",
-    "plato4": "platos/plato_1.PNG",
-    "plato5": "platos/plato_8.PNG",
-    "plato6": "platos/plato_2.PNG",
-    "plato7": "platos/plato_3.PNG",
-    "plato8": "platos/plato_5.PNG",
-    "plato9": "platos/plato_6.PNG",
-    "plato10": "platos/plato_7.PNG",
+    "plato1": "platos/plato4.PNG",
+    "plato2": "platos/plato10.PNG",
+    "plato3": "platos/plato9.PNG",
+    "plato4": "platos/plato1.PNG",
+    "plato5": "platos/plato8.PNG",
+    "plato6": "platos/plato2.PNG",
+    "plato7": "platos/plato3.PNG",
+    "plato8": "platos/plato5.PNG",
+    "plato9": "platos/plato6.PNG",
+    "plato10": "platos/plato7.PNG",
 };
 
 setInterval(() => {
